@@ -1,7 +1,7 @@
 {
   "name": "express-logger",
   "description": "Express middleware for auto-archiving log files.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "http://github.com/joehewitt/express-logger",
   "repository": {
     "type": "git",
